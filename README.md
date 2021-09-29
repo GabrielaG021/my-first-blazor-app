@@ -24,4 +24,9 @@ _Note: If you're using the Azure Functions CLI tools, refer to [the documentatio
 This application can be deployed to [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps), to learn how, check out [our quickstart guide](https://aka.ms/blazor-swa/quickstart).
 
 ## Program Running
+
 ![Tutorial4 - Program Running](https://user-images.githubusercontent.com/89892415/134095324-794a6e45-a79b-459a-ae18-cb374565e27c.JPG)
+
+## Modify a Project in Visual Studios
+
+![Modify Blazor through Visual Studios](https://user-images.githubusercontent.com/89892415/135194606-ef2e39ba-4876-4561-97f4-05090bb6ab08.JPG)
